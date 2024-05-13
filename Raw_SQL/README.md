@@ -1,24 +1,6 @@
-# README
+### Jayesh Borkar ###
+**RAW SQL**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+https://github.com/J14as/PresentationProject/assets/89084078/94fe9a62-c088-43c8-b05b-fe0e68603bff
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
